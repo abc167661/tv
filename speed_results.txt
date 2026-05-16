@@ -1,0 +1,2 @@
+安徽卫视,http://125.42.148.25:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+广东卫视,http://125.42.148.25:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
